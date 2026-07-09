@@ -9,6 +9,6 @@ function factorial(n) {
   return fact(n);
 }
 
-console.log(factorial(0));
-console.log(factorial(5));
-console.log(factorial(20));
+console.log(factorial(0)); //return 1
+console.log(factorial(5)); //return 120
+console.log(factorial(20)); //return 2432902008176640000
